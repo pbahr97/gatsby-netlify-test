@@ -6,4 +6,4 @@
   YARN_VERSION = "1.9.4"
   YARN_FLAGS = "--no-ignore-optional"
 
-http://pbahr.netlify.com/* http://pbahr.me/:splat 301!
+
